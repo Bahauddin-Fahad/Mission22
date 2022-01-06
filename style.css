@@ -29,7 +29,7 @@ span {
 .primary-heading {
   font-family: "Yeseva One", cursive;
   padding-left: 15px;
-  border-left: 6px solid rgb(32, 146, 252);
+  border-left: 6px solid rgb(57, 154, 245);
   border-radius: 3px;
 }
 .headline {
@@ -40,7 +40,7 @@ span {
 .button {
   color: white;
   font-size: 20px;
-  background-color: rgb(32, 146, 252);
+  background-color: rgb(57, 154, 245);
   text-decoration: none;
   padding: 10px 25px;
   border-radius: 5px;
