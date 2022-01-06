@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+section {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin: 60px 0 60px 50px;
+  justify-content: center;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(77, 77, 77);
+}
+.p-margin {
+  margin: 30px 0 30px 0;
+  width: 90%;
+}
+span {
+  color: #04f8d8ee;
+}
+.primary-heading {
+  font-family: "Yeseva One", cursive;
+  padding-left: 10px;
+  border-left: 5px solid #ff5959;
+  border-radius: 3px;
+}
+.headline {
+  font-size: 60px;
+  color: #333333;
+  font-weight: 500;
+}
+.button {
+  color: white;
+  font-size: 20px;
+  background-color: #ff5959;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  margin: 50px 0 50px 0;
+}
+.half-width {
+  width: 50%;
+}
+
+.half-img {
+  text-align: center;
+}
+img {
+  width: 70%;
+  text-align: center;
+}
+.my-mission {
+  display: flex;
+  margin: 50px;
+}
+.mission {
+  background-color: rgba(79, 157, 166, 0.1);
+}
+.vision {
+  background-color: rgba(255, 89, 89, 0.1);
+}
+.goal {
+  background-color: #fff4d6;
+}
+.mission-width {
+  margin: 20px;
+  padding: 40px;
+  border-radius: 35px;
+}
+.mission-center {
+  font-size: 40px;
+  text-align: center;
+  color: #13103a;
+}
+.mission-img {
+  width: 50%;
+}
+div h2 {
+  font-size: 40px;
+  margin: 20px 0 30px 0;
+}
+.background1 {
+  background-image: url(images/shapes/shape-6.png);
+  background-position: left;
+  background-size: 20%;
+  background-repeat: no-repeat;
+}
+.background2 {
+  background-image: url(images/shapes/shape-6.png);
+  background-position: bottom right;
+  background-size: 20%;
+  background-repeat: no-repeat;
+}
+
+footer {
+  color: white;
+  background-color: #0b0d17;
+  text-align: center;
+  padding: 60px 0 60px 0;
+}
+footer h1 {
+  font-family: "Lobster", cursive;
+  font-weight: 200;
+}
+footer h1 span {
+  color: #ff5959;
+}
+
+footer h5 {
+  font-size: 20px;
+  color: gray;
+  font-family: "Manrope", sans-serif;
+  padding-top: 30px;
+}
