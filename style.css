@@ -29,7 +29,7 @@ span {
 .primary-heading {
   font-family: "Yeseva One", cursive;
   padding-left: 15px;
-  border-left: 6px solid #ff5959;
+  border-left: 6px solid rgb(32, 146, 252);
   border-radius: 3px;
 }
 .headline {
@@ -40,7 +40,7 @@ span {
 .button {
   color: white;
   font-size: 20px;
-  background-color: #ff5959;
+  background-color: rgb(32, 146, 252);
   text-decoration: none;
   padding: 10px 25px;
   border-radius: 5px;
@@ -90,12 +90,14 @@ div h2 {
 .background1 {
   background-image: url(images/shapes/shape-6.png);
   background-position: left;
+  margin-left: 55px;
   background-size: 20%;
   background-repeat: no-repeat;
 }
 .background2 {
   background-image: url(images/shapes/shape-6.png);
   background-position: bottom right;
+  margin-right: 55px;
   background-size: 20%;
   background-repeat: no-repeat;
 }
